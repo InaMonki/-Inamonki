@@ -154,6 +154,45 @@ button {
     color: #ffffff;
 }
 
+.mainOne .nav{
+    margin-top: 50%;
+    border-style: none;
+    height: 10%;
+}
+
+.mainOne .nav p:hover{
+    border-style: solid;
+}
+.mainOne .nav #p1{
+    padding-top: 6%;
+    border-width: 1px;
+    padding-left: 5%;
+    padding-right: 10%;
+    font-size:25px;
+    border-style: none;
+    background-color: #ff0022;
+}
+.mainOne .nav #p1:hover{
+    background-color: rgb(238, 138, 8);
+}
+.mainOne .nav #p2{
+    padding-top: 6%;
+    border-width: 1px;
+    margin-left: 1%;
+    width:40%;
+    font-size:25px;
+    border-style: none;
+    background-color: #032a4e;
+}
+.mainOne .nav #p2:hover{
+    background-color: rgb(238, 138, 8);
+    
+}
+.mainOne p a{
+    text-decoration: none;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /********** RWD **********/
 @media (max-width: 575px) {
     #banner h1 {
