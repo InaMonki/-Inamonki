@@ -130,7 +130,7 @@ body{
 }
 
 .main_panel .home_nav a{
-    color:rgb(1, 22, 31);
+    color:rgb(0, 22, 27);
     text-decoration: none;
     border-style: none;
 }
@@ -184,7 +184,7 @@ body{
     }
 
     .main_panel .home_nav a{
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
