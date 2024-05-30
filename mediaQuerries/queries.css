@@ -1,0 +1,562 @@
+
+/****************min 600px ***************/
+
+@media only screen and (min-width: 376px) and (max-width: 600px){
+    .logo{
+        width:50%;
+        height:7rem;
+        margin-left: 25%;
+    }
+
+    .main .packages .bas p{
+        font-size: 20px;
+    }
+
+    .main .packages .mig p{
+        font-size: 20px;
+    }
+
+    .main .packages .sup p{
+        font-size: 20px;
+    }
+
+    /******************basic****************/
+
+    .mainOne p{
+        font-size: 20px;
+    }
+
+    .mainOne p a{
+        font-size: 18px;
+    }
+
+    .mainOne .nav{
+        margin-top: 60%;
+    }
+
+    
+    /******************mig****************/
+
+    .mainOnem p{
+        font-size: 20px;
+    }
+
+    .mainOnem p a{
+        font-size: 18px;
+    }
+
+    .mainOnem .nav{
+        margin-top: 60%;
+    }
+
+    
+    /*****************super****************/
+
+    .mainOnes p{
+        font-size: 20px;
+    }
+
+    .mainOnes p a{
+        font-size: 18px;
+    }
+
+    .mainOnes .nav{
+        margin-top: 60%;
+    }
+}
+
+/*********************601px********************/
+@media only screen and (min-width: 601px) and (max-width: 768px){
+    .logo{
+        height: 10rem;
+        width:30%;
+        margin-left: 35%;
+        
+    }
+    
+    .main{
+        margin-top:10%;
+        margin-left: 10%;
+    }
+    #packages_right_logo{
+        width:120px;
+        height:120px;
+    }
+
+    .main .packages_right h1{
+        font-size: 30px;
+    }
+
+    .main .packages h1{
+        width:85%;
+    }
+    
+    .main .packages .pack{
+        font-size: 50px;
+    }
+
+    .main .packages .bas p{
+        font-size: 26px;
+    }
+
+    .main .packages .mig p{
+        font-size: 26px;
+    }
+
+    .main .packages .sup p{
+        font-size: 26px;
+    }
+
+    /******************basic monkey *********************/
+    .mainOne #basicTopic{
+        font-size: 50px;
+    }
+
+    .mainOne h1{
+        height:15%;
+    }
+    
+    .mainOne p{
+        font-size: 35px;
+    }
+
+    .mainOne p a{
+        font-size: 35px;
+    }
+
+    .mainOne .nav{
+       margin-top: 20%; 
+    }
+    .mainOne .nav #p1{
+        padding-top: 4%;
+    }
+    .mainOne .nav #p2{
+        padding-top: 4%;
+    }
+
+      /******************mighty monkey *********************/
+      .mainOnem #mightyTopic{
+        font-size: 50px;
+    }
+
+    .mainOnem h1{
+        height:15%;
+    }
+    
+    .mainOnem p{
+        font-size: 35px;
+    }
+
+    .mainOnem p a{
+        font-size: 35px;
+    }
+
+    .mainOnem .nav{
+       margin-top: 20%; 
+    }
+    .mainOnem .nav #p1m{
+        padding-top: 4%;
+    }
+    .mainOnem .nav #p2m{
+        padding-top: 4%;
+    }
+
+
+     /******************super monkey *********************/
+     .mainOnes #superTopic{
+        font-size: 50px;
+    }
+
+    .mainOnes h1{
+        height:15%;
+    }
+    
+    .mainOnes p{
+        font-size: 35px;
+    }
+
+    .mainOnes p a{
+        font-size: 35px;
+    }
+
+    .mainOnes .nav{
+       margin-top: 20%; 
+    }
+    .mainOnes .nav #p1{
+        padding-top: 4%;
+    }
+    .mainOnes .nav #p2{
+        padding-top: 4%;
+    }
+}
+
+
+/**********************769px*********************/
+@media only screen and (min-width: 769px) and (max-width: 992px){
+    .main{
+        margin-top: 10%;
+    }
+    .logo{
+        height:10rem;
+        width:35%;
+        margin-left: 33%;
+    }
+
+    .main .packages .pack{
+        font-size: 60px;
+    }
+    .main .packages{
+        margin-left: 10%;
+    }
+
+    .main .packages h1{
+        width:80%;
+    }
+
+    .main .packages .bas #bas_name{
+        font-size:32px;
+    }
+
+    .main .packages .mig #mig_name{
+        font-size:32px;
+    }
+
+    .main .packages .sup #sup_name{
+        font-size:32px;
+    }
+
+    .main .packages_right{
+        margin-left: 0%;
+    }
+    #packages_right_logo{
+        width: 140px;
+        height:140px;
+    }
+
+    .main .packages_right #me{
+        padding-left: 17%;
+        font-size: 35px;
+    }
+
+    /******************basic*******************/
+
+    .mainOne #basicTopic{
+        font-size: 40px;
+    }
+
+    .mainOne #text{
+        font-size: 35px;
+    }
+    .mainOne .nav{
+        margin-top: 35%;
+    }
+
+    .mainOne p a{
+        font-size: 35px;
+    }
+
+     /******************mighty*******************/
+     .mainOnem #mightyTopic{
+        font-size: 40px;
+    }
+
+    .mainOnem #text{
+        font-size: 35px;
+    }
+    .mainOnem .nav{
+        margin-top: 35%;
+    }
+
+    .mainOnem p a{
+        font-size: 35px;
+    }
+    
+
+     /******************super*******************/
+
+     .mainOnes #superTopic{
+        font-size: 40px;
+    }
+
+    .mainOnes #text{
+        font-size: 35px;
+    }
+    .mainOnes .nav{
+        margin-top: 35%;
+    }
+
+    .mainOnes p a{
+        font-size: 35px;
+    }
+}
+
+/****************************993px*******************/
+@media only screen and (min-width: 993px) and (max-width: 1024px){
+    .logo{
+        width:30%;
+        height:10rem;
+        margin-left:31%;
+    }
+
+    .main{
+        margin-top: 10%;
+    }
+
+    .main .packages .pack span{
+        font-size: 70px;
+    }
+    .main .packages .pack{
+        font-size:70px;
+    }
+
+    .main .packages{
+        width:40%;
+        margin-left: 10%;
+    }
+
+    
+    .main .packages .bas #bas_name{
+        margin-top: 10%;
+        height:80%;
+        font-size: 35px;
+    }
+
+    .main .packages .mig #mig_name{
+        font-size: 35px;
+        margin-top: 6%;
+        height:80%;
+    }
+
+    .main .packages .sup #sup_name{
+        font-size: 35px;
+    }
+
+    #packages_right_logo{
+        width:150px;
+        height:150px;
+    }
+
+    .main .packages_right #me{
+        font-size: 40px;
+        padding-left: 12%;
+    }
+
+    /*********************basic**********************/
+
+    .mainOne #basicTopic{
+        font-size:50px;
+    }
+
+    .mainOne #text a{
+        font-size: 35px;
+    }
+    .mainOne p{
+        font-size: 35px;
+    }
+
+    .mainOne .nav{
+        margin-top: 30%;
+    }
+
+    .mainOne p a{
+        font-size:40px;
+    }
+
+      /*********************mighty**********************/
+
+      .mainOnem #mightyTopic{
+        font-size:50px;
+    }
+
+    .mainOnem #textm a{
+        font-size: 35px;
+    }
+    .mainOnem p{
+        font-size: 35px;
+    }
+
+    .mainOnem .nav{
+        margin-top: 30%;
+    }
+
+    .mainOnem p a{
+        font-size:40px;
+    }
+
+      /*********************basic**********************/
+
+      .mainOnes #superTopic{
+        font-size:50px;
+    }
+
+    .mainOnes #texts a{
+        font-size: 35px;
+    }
+    .mainOnes p{
+        font-size: 35px;
+    }
+
+    .mainOnes .nav{
+        margin-top: 30%;
+    }
+
+    .mainOnes p a{
+        font-size:40px;
+    }
+    
+}
+
+/****************************1025px*******************/
+@media only screen and (min-width: 1025px) and (max-width: 1440px){
+    .logo{
+        margin-top: 1%;
+        width:20%;
+        margin-left: 40%;
+    }
+
+    .main{
+        margin-top: 0%;
+    }
+
+    .main .packages .pack{
+        margin-left: 15%;
+    }
+    .main .packages{
+        margin-top: 3%;
+        border-style: none;
+        height:94%;
+        width:50%;
+        margin-left: 8%;
+    }
+    .main .packages h1{
+        width:30%;
+        margin-left:30%;
+        border-style: none;
+    }
+
+    .main .packages .bas{
+        margin-top:3%;
+    }
+
+    .main .packages .bas #bas_name{
+        font-size: 17px;
+    }
+
+    .main .packages .mig{
+        margin-top:3%;
+    }
+    .main .packages .mig #mig_name{
+        font-size: 17px;
+    }
+
+    .main .packages .sup{
+        margin-top:3%;
+    }
+    .main .packages .sup #sup_name{
+        font-size: 17px;
+    }
+
+    .main .packages_right{
+        margin-top: 7%;
+        margin-left: 0%;
+        border-style: none;
+        height:50%;
+    }
+
+    .main .packages_right h1{
+        border-style: none;
+        
+    }
+    #packages_right_logo{
+        width:100px;
+        height:100px;
+        margin-left: 0%;
+    }
+
+    .main .packages_right #me{
+        padding-left: 8%;
+    }
+
+    /******************super****************/
+
+   
+    .mainOnes h1{
+        height:35%;
+    }
+    
+    .mainOnes .nav{
+        margin-top: 10%;
+        padding-bottom: 5%;
+    }
+
+    .mainOnes .nav #p1{
+       width:1%;
+       height:1px;
+       padding-top: 1%;
+       padding-bottom: 4%;
+       
+    }
+
+    .mainOnes .nav #p2{
+        width:10%;
+        height:1px;
+        padding-top: 1%;
+        padding-bottom: 4%; 
+     }
+
+     /*****************basic*****************/
+
+       
+    .mainOne h1{
+        height:35%;
+    }
+    
+    .mainOne .nav{
+        margin-top: 10%;
+        padding-bottom: 5%;
+    }
+
+    .mainOne .nav #p1{
+       width:1%;
+       height:1px;
+       padding-top: 1%;
+       padding-bottom: 4%;
+       
+    }
+
+    .mainOne .nav #p2{
+        width:10%;
+        height:1px;
+        padding-top: 1%;
+        padding-bottom: 4%; 
+     }
+  
+         /*****************mighty*****************/
+
+       
+    .mainOnem h1{
+        height:35%;
+    }
+    
+    .mainOnem .nav{
+        margin-top: 10%;
+        padding-bottom: 5%;
+    }
+
+    .mainOnem .nav #p1m{
+       width:1%;
+       height:1px;
+       padding-top: 1%;
+       padding-bottom: 4%;
+       
+    }
+
+    .mainOnem .nav #p2m{
+        width:10%;
+        height:1px;
+        padding-top: 1%;
+        padding-bottom: 4%; 
+     }
+}
+
+
