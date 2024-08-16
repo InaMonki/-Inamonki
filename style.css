@@ -1,0 +1,33 @@
+.col{
+    background-color: grey;
+    border: 2px solid white;
+}
+[class*="col"]{
+    background-color: rgba(145, 3, 3, 0);
+    padding: 0rem;
+    border: 9px solid rgba(0, 253, 42, 0);
+}
+a{
+    text-decoration: none;
+}
+#container{
+    background-image: url("img/about-img.png");
+    background-size: cover;
+}
+#body{
+    border: none;
+    background:linear-gradient(to right, #fdfdfd,rgb(156, 196, 218),#ffffff);
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+    height: 10vh;
+}@keyframes animate-background{
+    0%{
+        background-position:0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position:0 50%;
+    }
+};
