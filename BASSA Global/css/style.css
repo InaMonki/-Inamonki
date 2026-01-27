@@ -2,7 +2,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color:  rgba(240, 240, 240, 0.779);
   overflow-x: hidden;
 }
 
@@ -990,6 +990,10 @@ box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   border: none;
   width:21rem;
 }
-#cardid{
-  width: 21.5rem;
+#cardid .hover{
+  background-color: red;
+}
+#servicecenter{
+  display: flex;
+  justify-content: center;
 }
